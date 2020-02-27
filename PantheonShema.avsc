@@ -1,0 +1,140 @@
+{
+	"namespace":"parquetconverter",
+	"type":"record",
+	"name":"Pantheon",
+	"fields":[
+		{
+			"name":"en_curid",
+			"type":"string"
+		},
+		{
+			"name":"name",
+			"type":"string"
+		},
+
+		{
+			"name":"numlangs",
+			"type":"string"
+		},
+
+
+		{
+			"name":"birthcity",
+			"type":"string"
+		},
+
+
+		{
+			"name":"birthstate",
+			"type":"string"
+		},
+
+
+		{
+			"name":"countryName",
+			"type":"string"
+		},
+
+
+		{
+			"name":"countryCode",
+			"type":"string"
+		},
+
+		{
+			"name":"countryCode3",
+			"type":"string"
+		},
+
+
+		{
+			"name":"LAT",
+			"type":"string"
+		},
+
+
+		{
+			"name":"LON",
+			"type":"string"
+		},
+
+
+		{
+			"name":"continentName",
+			"type":"string"
+		},
+
+
+		{
+			"name":"birthyear",
+			"type":"string"
+		},
+
+
+		{
+			"name":"gender",
+			"type":"string"
+		},
+
+
+		{
+			"name":"occupation",
+			"type":"string"
+		},
+
+
+		{
+			"name":"industry",
+			"type":"string"
+		},
+
+
+		{
+			"name":"domain",
+			"type":"string"
+		},
+
+
+		{
+			"name":"TotalPageViews",
+			"type":"string"
+		},
+
+
+		{
+			"name":"L_star",
+			"type":"string"
+		},
+
+
+		{
+			"name":"StdDevPageViews",
+			"type":"string"
+		},
+
+
+		{
+			"name":"PageViewsEnglish",
+			"type":"string"
+		},
+
+
+		{
+			"name":"PageViewsNonEnglish",
+			"type":"string"
+		},
+
+
+		{
+			"name":"AverageViews",
+			"type":"string"
+		},
+
+		{
+			"name":"HPI",
+			"type":"string"
+		}
+		
+	]
+	
+}
